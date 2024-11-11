@@ -3,7 +3,7 @@
 import unittest
 from varasto import Varasto
 
-# t o d o    actually have something useful in the docstrings
+# todo: actually have something useful in the docstrings
 
 class TestVarasto(unittest.TestCase):
     '''test class'''
