@@ -2,7 +2,7 @@
 
 from varasto import Varasto
 
-# pylint: disable=too-many-statement
+# pylint: disable=too-many-statements
 
 def main():
     '''main'''
